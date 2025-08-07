@@ -58,4 +58,5 @@ def process():
     })
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5001, debug=True)
+    app.run(host=https://github.com/suriya276/InputHandling/edit/main/APP.PY, debug=True)
+
